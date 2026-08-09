@@ -103,7 +103,7 @@ My Linux development environment, including Neovim, i3, scripts, and workflow co
 
 ## `> problem-solving`
 
-I regularly practice **Data Structures & Algorithms** to improve algorithmic thinking and implementation skills.
+Sharpening my problem-solving skills through DSA and competitive programming.
 
 <div align="center">
 
