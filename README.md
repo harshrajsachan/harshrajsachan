@@ -26,13 +26,13 @@ My current focus is Java backend development, data structures & algorithms, deve
 I enjoy taking small ideas and turning them into tools that I actually use.
 
 ┌─────────────────────────────────────────────────────────────┐
-│ CURRENTLY │
-│ │
-│ → Building Java backend projects │
-│ → Practicing DSA / problem solving │
-│ → Exploring Spring Boot + PostgreSQL │
-│ → Building Developer tools & Neovim plugins │
-│ → Living in Linux / i3 / Neovim │
+  CURRENTLY                                                   │
+│                                                             │
+│ → Building Java backend projects                            │
+│ → Practicing DSA / problem solving                          │
+│ → Exploring Spring Boot + PostgreSQL                        │
+│ → Building Developer tools & Neovim plugins                 │
+│ → Living in Linux / i3 / Neovim                             │
 └─────────────────────────────────────────────────────────────┘
 
 > tech --stack
