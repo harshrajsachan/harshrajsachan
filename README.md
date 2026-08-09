@@ -106,31 +106,6 @@ My Linux development environment, including Neovim, i3, scripts, and workflow co
 
 ---
 
-## `> problem-solving`
-
-Sharpening my problem-solving skills through **DSA and competitive programming**.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Arrays-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Hashing-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Binary%20Search-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Two%20Pointers-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Sliding%20Window-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Prefix%20Sum-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Stack%20%26%20Queue-E63946?style=flat-square" />
-<img src="https://img.shields.io/badge/Trees%20%26%20Graphs-E63946?style=flat-square" />
-
-<br><br>
-
-<a href="https://leetcode.com/u/codegeek_harsh/">
-  <img src="https://img.shields.io/badge/LEETCODE%20PROFILE-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-
-</div>
-
----
-
 ## `> github --stats`
 
 <div align="center">
