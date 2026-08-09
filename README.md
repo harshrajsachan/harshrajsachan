@@ -141,7 +141,7 @@ Sharpening my problem-solving skills through **DSA and competitive programming**
 
 <br><br>
 
-<img src="https://github-readme-streak-vercel.vercel.app?user=harshrajsachan&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
+<img src="https://streak-stats.demolab.com?user=harshrajsachan&hide_border=true&background=0D1117&ring=E63946&fire=E63946&currStreakLabel=E63946&sideLabels=C9D1D9&dates=8B949E&currStreakNum=C9D1D9&sideNums=C9D1D9" />
 
 </div>
 
