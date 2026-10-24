@@ -148,7 +148,7 @@ My Linux development environment, including Neovim, i3, scripts, and workflow co
   <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://leetcode.com/u/codegeek_harsh/">
+<a href="https://leetcode.com/u/harshrajsachan/">
   <img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
 </a>
 &nbsp;
